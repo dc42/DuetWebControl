@@ -712,27 +712,27 @@
 	</es>
 	<fr name="Français">
 	   	<!-- JavaScript Strings -->
-		<string t="Connect">Connecter</string>
-		<string t="Connecting...">Connecte...</string>
-		<string t="Disconnect">Déconnecte</string>
+		<string t="Connect">Connecté</string>
+		<string t="Connecting...">Connection...</string>
+		<string t="Disconnect">Déconnecté</string>
 		<string t="Invalid password!">Mot de passe invalide!</string>
 		<string t="Connection established!">Connection établie!</string>
-		<string t="Page Load complete!">Chargement page complet!</string>
+		<string t="Page Load complete!">Chargement de la page complet!</string>
 		<string t="Disconnected.">Déconnecté.</string>
 		<string t="Layer: {0} of {1}">Couche: {0} de {1}</string>
 		<string t="Filament Usage: {0}mm of {1}mm">Filament utilisé: {0}mm sur {1}mm</string>
 		<string t="({0}mm remaining)">(reste {0}mm)</string>
-		<string t="Printing {0}, {1}% Complete">Imprime {0}, {1}% complété</string>
-		<string t="{0}% Complete">{0}% complété</string>
+		<string t="Printing {0}, {1}% Complete">Imprime {0}, {1}% réalisé</string>
+		<string t="{0}% Complete">{0}% réalisé</string>
 		<string t="Printing {0}">Imprime {0}</string>
-		<string t="Printed {0}, 100% Complete">{0} Imprimé, 100% complété</string>
+		<string t="Printed {0}, 100% Complete">{0} Imprimé, 100% réalisé</string>
 		<string t="Print Complete!">Impression terminée!</string>
 		<string t="none">sans</string>
 		<string t="Emergency Stop!">Arrêt d'urgence!</string>
 		<string t="Error reason: {0}">Erreur: {0}</string>
 		<string t="Communication Error">Erreur de communication</string>
-		<string t="Zero All Drives">Réinitialise tous les moteurs</string>
-		<string t="Zero Extruder Drive {0}">Réinitialise extrudeur N° {0}</string>
+		<string t="Zero All Drives">Réinitialisation de tous les moteurs</string>
+		<string t="Zero Extruder Drive {0}">Réinitialisation de l'extrudeur N° {0}</string>
 		<string t="Message Log cleared!">Liste des messages vidée!</string>
 		<string t="ATX Power">Alimentation ATX</string>
 		<string t="Heater Fault">Défaut réchauffage</string>
@@ -753,7 +753,7 @@
 		<string t="Busy">Occupé</string>
 		<string t="Idle">Au repos</string>
 		<string t="off">coupé</string>
-		<string t="standby">standby</string>
+		<string t="standby">attente</string>
 		<string t="active">actif</string>
 		<string t="fault">défaut</string>
 		
@@ -790,14 +790,14 @@
 		<string t="Always Convert G-Codes to Upper-Case">Convertit tous les G-Codes en majuscule</string>
 		<string t="Display File Sizes with Binary Prefix">Affiche tailles de fichiers en multiple de 1024</string>
 		<string t="Show Fan Sliders">Montre curseurs ventilateurs</string>
-		<string t="Show ATX Power control">Montre le contrôle alimentation ATX</string>
+		<string t="Show ATX Power control">Montre le contrôle d'alimentation ATX</string>
 		<string t="Confirm Emergency STOP">Confirme l'arrêt d'urgence</string>
 		<string t="Apply Settings">Applique la configuration</string>
 		<string t="Load Factory Defaults">Recharge la configuration par défaut</string>
 		<string t="On">Marche</string>
 		<string t="Off">Arrêt</string>
 		<string t="Active Temperatures">Températures actives</string>
-		<string t="Standby Temperatures">Températures de standby</string>
+		<string t="Standby Temperatures">Températures d'attente</string>
 		<string t="Add G-Code">Ajouter G-Code</string>
 		<string t="Add Temp">Ajouter température</string>
 		<string t="Bed (0)">Plateau (0)</string>
@@ -860,7 +860,7 @@
 		<string t="UI Timing">Timing interface utilisateur</string>
 		<string t="Default G-Codes">G-Codes par défaut</string>
 		<string t="Default Heater Temperatures">Température tête par défaut</string>
-		<string t="Default Bed and Chamber Temperatures">Température plateau et chambre par défaut</string>
+		<string t="Default Bed and Chamber Temperatures">Température plateau et caisson par défaut</string>
 		<string t="Add new G-Code">Ajouter un nouveau G-Code</string>
 		<string t="Add new Temperature">Ajouter une nouvelle température</string>
 		<string t="Define new Tool">Définir un nouvel outil</string>
@@ -876,8 +876,8 @@
 		<string t="Heater 3">Réchauffeur 3</string>
 		<string t="Heater 4">Réchauffeur 4</string>
 		<string t="Heater 5">Réchauffeur 5</string>
-		<string t="Bed">Plateau</string>
-		<string t="Chamber">Chambre</string>
+		<string t="Bed">Lit</string>
+		<string t="Chamber">Caisson</string>
 		<string t="Head Position">Position tête</string>
 		<string t="Extruder Drives">Extrudeur</string>
 		<string t="Drive 1">Moteur 1</string>
